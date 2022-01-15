@@ -1,0 +1,16 @@
+{
+    "h1": "Hello there! My name is Nikita Teterin",
+    "h2": "I am a 3rd year student at BMSTU, Moscow",
+    "image": "static/me.jpg",
+    "bio": [
+        "**20 y.o.**",
+        "**VK education student**",
+        "**Interested in fields of ML, math, algorithms and software development**"
+    ],
+    "contacts": {
+        "Github account": "https://github.com/sudotouchwoman",
+        "Telegram": "https://t.me/sudotouchwoman"
+    },
+    "email": "nekitonum@gmail.com",
+    "body": "## I am familiar with the following technologies:\n + `C/C++`\n + `Python`: `sklearn`, `Flask`, `Streamlit`, `plotly`, a little of `PyTorch` and `TF2`\n + `MySQL`\n + `HTML`\n + `Docker` amd `Compose`\n + Some `LaTeX`"
+}
